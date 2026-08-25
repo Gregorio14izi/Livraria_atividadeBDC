@@ -1,7 +1,7 @@
 ## Atividade Livraria BCD
 
 # Banco criado
-<img width="1591" height="471" alt="image" src="https://github.com/user-attachments/assets/31e41c0f-83e0-495b-89ef-dfaeb137219d" />
+<img width="1597" height="465" alt="image" src="https://github.com/user-attachments/assets/7bf01972-e398-4b7b-99f1-76d399b8df72" />
 
 ---
 # Tabela Finalizada
