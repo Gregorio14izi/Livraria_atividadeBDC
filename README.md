@@ -1,16 +1,9 @@
-## Servidor Banco de Dados no MobaXterm: 💻
+## Atividade Livraria BCD
 
-<img width="1561" height="805" alt="image" src="https://github.com/user-attachments/assets/7bcbd65e-245e-4680-a41f-b3b53c8785b8" />
-
-## * Banco criado
----
-
-## Servidor Banco de Dados pelo VSCode: 🤖
-
-<img width="450" height="459" alt="image" src="https://github.com/user-attachments/assets/adfdb890-0679-4c6b-bc44-2e83c1f0f70e" />
+# Banco criado
+<img width="1591" height="471" alt="image" src="https://github.com/user-attachments/assets/31e41c0f-83e0-495b-89ef-dfaeb137219d" />
 
 ---
-# Pós código finalizado, como ficou a tabela no final: 📄
-
-<img width="590" height="607" alt="image" src="https://github.com/user-attachments/assets/0a15659a-8122-435e-bc77-ed1c32dd9078" />
+# Tabela Finalizada
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/d17c3d74-ff3d-4afe-b399-4e3cd19f2ba4" />
 
